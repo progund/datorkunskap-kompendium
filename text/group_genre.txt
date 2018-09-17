@@ -1,0 +1,5 @@
+ABBA,Pop
+Bach,Classical
+Kiss,Rock
+KSMB,Punk
+Styx,Metal
